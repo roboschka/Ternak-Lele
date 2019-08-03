@@ -11,3 +11,5 @@ This game was created for our Software Engineering course final project. There a
 * Finished some crucial UI design
 * Added original music into the main menu
 * Finished all of the important assets
+
+![Screenshot](/Screen%20Shot%202019-05-19%20at%2011.01.44.png)
