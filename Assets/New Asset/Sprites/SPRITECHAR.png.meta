@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 2870a46c6cdaa4b4d95055d2152d5ab4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPRITECHAR_0
+    21300002: SPRITECHAR_1
+    21300004: SPRITECHAR_2
+    21300006: SPRITECHAR_3
+    21300008: SPRITECHAR_4
+    21300010: SPRITECHAR_5
+    21300012: SPRITECHAR_6
+    21300014: SPRITECHAR_7
+    21300016: SPRITECHAR_8
+    21300018: SPRITECHAR_9
+    21300020: SPRITECHAR_10
+    21300022: SPRITECHAR_11
+    21300024: SPRITECHAR_12
+    21300026: SPRITECHAR_13
+    21300028: SPRITECHAR_14
+    21300030: SPRITECHAR_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITECHAR_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 900
+        width: 182
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.08760447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258c3bf2958d8e49ab21a9d3bf201d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 900
+        width: 182
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.114835925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd4b492f56cad4bb1552d949dbe155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 900
+        width: 182
+        height: 276
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.0768928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1131f320bf46544aa403f7dc5bb1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 900
+        width: 182
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5081224, y: 0.08881131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed777e3d1451f45b471d79584fc593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 600
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5253405, y: 0.06682858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b58a21738cb004abad0f0d5c520763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 600
+        width: 175
+        height: 269
+      alignment: 9
+      pivot: {x: 0.50844693, y: 0.06588257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103baeee59dc5e42940f73838dc8b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 600
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5084466, y: 0.072243266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b6309a05af694690b15f454353842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_7
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 600
+        width: 175
+        height: 269
+      alignment: 9
+      pivot: {x: 0.45776576, y: 0.07687298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792a14c638faf8419cef7ebfecb039f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: 0.49155316, y: 0.07224338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f9b461f6feaec49855177e73b0989b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 300
+        width: 175
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.054892275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0acfe2723a2f94784e55599c2557f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 300
+        width: 175
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4746596, y: 0.06141411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2589006813ef2a34e8ec8af666e6e327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_11
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 300
+        width: 177
+        height: 269
+      alignment: 9
+      pivot: {x: 0.4916482, y: 0.060387366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcddf547ef025f40a610f76358fd69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 182
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.060825605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9be83e684d1b49a5037ff3bc7a80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 182
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06799176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763088ddc1c3784b9edebcd9b8039d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_14
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 182
+        height: 276
+      alignment: 9
+      pivot: {x: 0.508122, y: 0.071537174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebdbe4630392dc4d840f7de0dc27085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITECHAR_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 182
+        height: 285
+      alignment: 9
+      pivot: {x: 0.51624405, y: 0.059134305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57160bc9e06e14c8c44de2bfc7f030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c0746ea35bcefa4aaca046c568fca12
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

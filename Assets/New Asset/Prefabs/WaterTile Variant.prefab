@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8898168517007024820
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4094478639997455367, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047734, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Name
+      value: WaterTile Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.8496
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.1196
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.3596
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.3596
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047731, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.3596
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047732, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ba3f76ebc6ad466ba0f6b1e2dc8c282,
+        type: 3}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0044076443
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.9960217
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047730, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.0048356
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539705720589047733, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: overlay
+      value: 
+      objectReference: {fileID: 6359784138792170531}
+    - target: {fileID: 2539705720589047733, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: waterIndicator
+      value: 
+      objectReference: {fileID: 4876879143666298547}
+    - target: {fileID: 2539705720589047733, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: canvasObject
+      value: 
+      objectReference: {fileID: 7923232340839647247, guid: 9c3e4d539338e9b4cba42c22d08aa756,
+        type: 3}
+    - target: {fileID: 827972497117917381, guid: 116a35d4ccf128e489c7b8487d8ae045,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 508105c3e493a604ca6e242c1234592b,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 116a35d4ccf128e489c7b8487d8ae045, type: 3}
+--- !u!212 &6359784138792170531 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 2539705720880387735, guid: 116a35d4ccf128e489c7b8487d8ae045,
+    type: 3}
+  m_PrefabInstance: {fileID: 8898168517007024820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4876879143666298547 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4094478639997455367, guid: 116a35d4ccf128e489c7b8487d8ae045,
+    type: 3}
+  m_PrefabInstance: {fileID: 8898168517007024820}
+  m_PrefabAsset: {fileID: 0}
